@@ -1,0 +1,2 @@
+# MyDenemeApp
+Deneme uygulaması
